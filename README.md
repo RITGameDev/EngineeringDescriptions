@@ -1,22 +1,22 @@
 # EngineeringDescriptions
-This is a repo with a synopsis of different engineering positions and their job requirements that I am making so that I can help others and myself keep up to date with the industry. 
+This is a repo with a synopsis of different engineering positions and their job requirements that I am making so that I can help others and myself keep up to date with the industry.
 
-This is obviuously not a full or comprehensive list, and things are always changing. This is meant ot be a basic list and description of what positions are available for engineers in game development, and what some of their job descriptions would be. Each one of these positions will also vary greatly depending on what studio is being considered. 
+This is obviously not a full or comprehensive list, and things are always changing. This is meant ot be a basic list and description of what positions are available for engineers in game development, and what some of their job descriptions would be. Each one of these positions will also vary greatly depending on what studio is being considered.
 
 
 ## Engine Programmer
 
 #### Description
 
-Develop and maintain core engine systems/features such as AI, resource management, multithreading,  and scripting. Some more examples of things you could _possibly_ be responsible for include memnory management, loading, streadming, physics, audio, animation, etc. 
+Develop and maintain core engine systems/features such as AI, resource management, multithreading,  and scripting. Some more examples of things you could _possibly_ be responsible for include memory management, loading, streaming, physics, audio, animation, etc.
 
 #### Requirements
 
 * Very strong C/C++
 * Understanding of asynchronous programming techniques
-* Typcially a BS in Computer Science or equivelant
+* Typically a BS in Computer Science or equivalent
 * Strong 3D math skills
-* Expereince with multi-threaded programming
+* Experience with multi-threaded programming
 * Understanding of graphics with DirectX, OpenGL, or something similar
 
 #### Useful Resources
@@ -30,7 +30,7 @@ Develop and maintain core engine systems/features such as AI, resource managemen
 
 #### Description
 
-Design, implement, and maintain the tools technology accross the engine. Collaborate iwth artists, programmers and designers to improve on their workflow and overcome challenges that they are facing. 
+Design, implement, and maintain the tools technology across the engine. Collaborate with artists, programmers and designers to improve on their workflow and overcome challenges that they are facing.
 
 #### Requirements
 
@@ -38,9 +38,9 @@ Design, implement, and maintain the tools technology accross the engine. Collabo
 
 * C# (Windows Forms common)
 * C++
-* Web technolgies like Javascript/CSS can be useful
+* Web technologies like Javascript/CSS can be useful
 * Scripting (Python, Lua, etc)
-* Experience with UI/UX 
+* Experience with UI/UX
 * SQL data bases could be useful as well
 * Experience with automation
 
@@ -54,7 +54,18 @@ Design, implement, and maintain the tools technology accross the engine. Collabo
 
 #### Description
 
+This position can mean a lot of things, and will vary greatly with each studio and the types of games that they make. This position is a blend of automation, development, and administration.
+
 #### Requirements
+
+* AWS Experience
+* Scripting (Python, Bash, React are good ones)
+* C# can be a good one
+* Docker experience is good
+* SQL and other database things
+* Jenkins
+* Knowledge about continuous integration, testing and deployment
+* NodeJS
 
 #### Useful Resources
 
