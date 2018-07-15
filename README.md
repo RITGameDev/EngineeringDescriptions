@@ -67,7 +67,44 @@ This position can mean a lot of things, and will vary greatly with each studio a
 * Knowledge about continuous integration, testing and deployment
 * NodeJS
 
-#### Useful Resources
+
+## Graphics Engineer
+
+#### Description
+
+Graphics engineers develop and maintain rendering systems and pipelines. They often work closely with technical artists to make sure that the content creation workflow is effective. As well as developing the rendering pipeline, graphics engineers often need to spend a lot of time optimizing the graphics performance.
+
+#### Requirements
+
+* Expert in C++ programming (data-oriented design is good as well as Object Oriented)
+* Extensive knowledge of real-time graphics and API's (DirectX, OpenGL, etc)
+* Strong 3D math skills
+* Shader languages like HLSL, GLSL, OpenGL ES3.0, etc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
